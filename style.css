@@ -1,1 +1,116 @@
 
+body {
+  
+  background-image: url("https://i.pinimg.com/originals/c5/b3/48/c5b3481b3d024fc676d6913d0a70ecdb.jpg");
+  background-size: 300%;
+}
+
+h1 {
+  
+  text-align: center;
+  border: 8px groove #3E8FB2;
+  padding-top: 6px;
+   padding-bottom: 10px;
+  margin-left: 20px;
+     margin-right: 20px;
+ font-family: verdana, arial, sans-serif;
+}
+
+h2 {
+  
+  text-align: right;
+  text-decoration: underline;
+  font-size: 24px;
+  padding-right: 15px;
+  font-family: verdana, arial, sans-serif;
+}
+
+
+h3 {
+  
+  text-align: left;
+  font-size: 26px;
+  padding-left: 30px;
+  text-decoration: underline;
+  font-family: verdana, arial, sans-serif;
+}
+
+h5 {
+  
+  text-align: right;
+  padding-right: 18px;
+  font-family: verdana, arial, sans-serif;
+  font-size: 14px;
+}
+
+
+.history {
+  
+  padding-right: 18px;
+  font-size: 18px;
+}
+
+.edu {
+  text-align: left;
+  padding-left: 30px;
+  font-family: verdana, arial, sans-serif;
+  font-size: 18px;
+}
+
+body {
+ 
+ color: white;
+}
+
+img {
+  width: 60%;
+  border-radius: 30%;
+}
+
+ul {
+  
+ font-family: verdana, arial, sans-serif
+}
+
+
+.list {
+  font-size: 18px;
+ ul-align: center;
+}
+
+
+.description {
+  text-align: center;
+  font-size: 16px;
+  color: #D7DEF0;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-family: verdana, arial, sans-serif;
+  
+}
+
+
+.center {
+  display: block;
+  margin-left:  auto;
+  margin-right:  auto;
+}
+
+.quote {
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-family: garamond, serif;
+  
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+  color: #9DACCF;
+  border: 1px solid black;
+  font-family: Verdana, Arial, Sans-Serif;
+  font-size: 12px;
+}
+
